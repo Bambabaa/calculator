@@ -1,4 +1,4 @@
-import Textfit from "textfit";
+import { Textfit } from 'react-textfit';
 import "./screen.css"
 
 const Screen = ({value}) => {
